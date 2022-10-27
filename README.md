@@ -5,7 +5,7 @@ FOR PROJECT:
 <a href="https://musabeytekinnewsletter.herokuapp.com"> Project Link </a>
 <br>
 <br>
-for mailchimp, fallow this link <a href="https://mailchimp.com">MailChimp</a>
+For mailchimp, fallow this link <br><a href="https://mailchimp.com">MailChimp</a>
 <br>
 <br>
 Fill in the requested data to register for the newsletter.
