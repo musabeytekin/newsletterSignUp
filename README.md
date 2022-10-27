@@ -14,6 +14,7 @@ Fill in the requested data to register for the newsletter.
 <br>
 If there is no error in the registration process, you will receive this message.
 <img src="https://github.com/musabeytekin/images/blob/main/view/success.png">
+<br><br>
 The person you request newsletter registration can read, edit, etc. from the panel on the mailchimp service.
 <img src="https://github.com/musabeytekin/images/blob/main/view/admin-dashboard.png">
 <br><br>
