@@ -19,9 +19,9 @@ The person you request newsletter registration can read, edit, etc. from the pan
 <img src="https://github.com/musabeytekin/images/blob/main/view/admin-dashboard.png">
 <br><br>
 
-Note: if you want clone this project, you should install node modules. so fallow this command
-
+Note: if you want clone this project, you should install node modules. if you are in cloning folder,fallow this command
+<br>
 ```bash
-    npm install
+npm install
 ```
 
