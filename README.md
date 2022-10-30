@@ -24,4 +24,5 @@ Note: if you want clone this project, you should install node modules. if you ar
 ```bash
 npm install
 ```
+Note: NPM (node package manager) tool must be installed.
 
